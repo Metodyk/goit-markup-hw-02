@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--brand-color-black2);
+}
+
+
+
+.head {
+    font: size 14px;
+    width: 500;
+    text-decoration:
+}
+a,
+button,
+.links {
+    :hover;
+    :active;
+    :fokus;
+}
